@@ -1,0 +1,38 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "title": "Luxor",
+      "text": "Alot of Temples and tombs",
+      "img": "./images/lux4.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Gize",
+      "text": "Pyrimds, Sphinx and Museum",
+      "img": "./images/py5.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cairo",
+      "text": "Museums and Castles and Azhar",
+      "img": "./images/ca.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Alex",
+      "text": "Library and Castles and Sea",
+      "img": "./images/alx1.jpg"
+    },
+    {
+      "title": "Sharm El Sheikh",
+      "text": "Wonderfull Coast",
+      "img": "./images/sh.jpg"
+    },
+    {
+      "title": "Hurghada",
+      "text": "Museums and beach",
+      "img": "./images/hu2.jpg"
+    }
+  ]
+}

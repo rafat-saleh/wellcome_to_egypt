@@ -1,0 +1,24 @@
+/** @format */
+.slideshow {
+  width: 12.2rem;
+  height: 16rem;
+}
+.kenburnsBottom {
+  animation: kenburnsBottom 7s ease-out 5s 7 alternate both;
+}
+@keyframes kenburnsBottom {
+  0% {
+    transform: scale(1.25) translateY(0);
+    transform-origin: 50% 84%;
+  }
+  100% {
+    transform: scale(1.4) translateY(15px);
+    transform-origin: bottom;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .slideshow {
+    width: 10.2rem;
+    height: 12rem;
+  }
+}
