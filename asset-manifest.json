@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/wellcome_to_egypt/static/css/main.b9f3dcd6.chunk.css",
-    "main.js": "/wellcome_to_egypt/static/js/main.b3951145.chunk.js",
-    "main.js.map": "/wellcome_to_egypt/static/js/main.b3951145.chunk.js.map",
+    "main.css": "/wellcome_to_egypt/static/css/main.209d102e.chunk.css",
+    "main.js": "/wellcome_to_egypt/static/js/main.dd9eb31d.chunk.js",
+    "main.js.map": "/wellcome_to_egypt/static/js/main.dd9eb31d.chunk.js.map",
     "runtime-main.js": "/wellcome_to_egypt/static/js/runtime-main.99b75796.js",
     "runtime-main.js.map": "/wellcome_to_egypt/static/js/runtime-main.99b75796.js.map",
     "static/css/2.10287ff0.chunk.css": "/wellcome_to_egypt/static/css/2.10287ff0.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.92ac2de0.chunk.js.map": "/wellcome_to_egypt/static/js/3.92ac2de0.chunk.js.map",
     "index.html": "/wellcome_to_egypt/index.html",
     "static/css/2.10287ff0.chunk.css.map": "/wellcome_to_egypt/static/css/2.10287ff0.chunk.css.map",
-    "static/css/main.b9f3dcd6.chunk.css.map": "/wellcome_to_egypt/static/css/main.b9f3dcd6.chunk.css.map",
+    "static/css/main.209d102e.chunk.css.map": "/wellcome_to_egypt/static/css/main.209d102e.chunk.css.map",
     "static/js/2.2b30f4dd.chunk.js.LICENSE.txt": "/wellcome_to_egypt/static/js/2.2b30f4dd.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/wellcome_to_egypt/static/media/background.a7573e6c.jpg",
     "static/media/all.css": "/wellcome_to_egypt/static/media/fa-solid-900.eeccf4f6.woff"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.99b75796.js",
     "static/css/2.10287ff0.chunk.css",
     "static/js/2.2b30f4dd.chunk.js",
-    "static/css/main.b9f3dcd6.chunk.css",
-    "static/js/main.b3951145.chunk.js"
+    "static/css/main.209d102e.chunk.css",
+    "static/js/main.dd9eb31d.chunk.js"
   ]
 }
